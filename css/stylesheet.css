@@ -22,3 +22,9 @@ body {
     bottom: 0px;
     right: 0px;
 }
+
+@media (max-width: @iphone-screen) 
+{
+    .hero1{
+    background-attachment: scroll;
+} } }
