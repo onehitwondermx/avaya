@@ -12,3 +12,10 @@ body {
     background-size: cover;
 
 }
+
+.whatsapp {
+    display: scroll;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
