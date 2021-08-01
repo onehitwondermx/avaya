@@ -10,6 +10,8 @@ body {
     height: 80vh;
     background: url(../img/homeoffice.jpg) center fixed; 
     background-size: cover;
+    -webkit-background-size: cover;
+   -moz-background-size: cover;
 
 }
 
